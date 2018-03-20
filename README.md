@@ -1,2 +1,3 @@
 # simple-chat
 simple chat program,step by step...
+This program is written by Zahra Shayesteh.
